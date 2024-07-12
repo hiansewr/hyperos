@@ -414,7 +414,7 @@ ul.link li {
 .browse_text { font-size: 9pt; padding-bottom: 0px;}
 .read_bt a { margin-bottom: 0px; }
 .video_icon { text-align: center; }
-.banner_section { padding-bottom: 30px; padding-top: 30px; background-size: cover; }
+.banner_section { padding-bottom: 30px; padding-top: 30px; background-size: cover; background-image: url(https://cia.hyperos.mi.com/hyperos-homepage/idx_pad.png); }
 .email_boton { margin-top: 20px;}
 .search_bt { width: 100%; margin-top: 20px;  }
 .read_bt { width: fit-content; font-size: 13pt; }
